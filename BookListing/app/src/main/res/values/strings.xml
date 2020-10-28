@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Must Read Books</string>
+    <string name="search">search</string>
+    <string name="author">J. K. Rowling,Jack Thorne,John Tiffany"</string>
+    <string name="title">Harry Potter and the Cursed Child</string>
+    <string name="published_date">date</string>
+    <string name="countryCode">US</string>
+    <string name="Price">149.95</string>
+    <string name="CurrencyCode">USD</string>
+    <string name="search_view_hint">Enter a book title</string>
+    <string name="search_hint">Enter a title</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Books Settings</string>
+    
+    <string name="settings_book_label">Title</string>
+    <string name="settings_book_key" translatable="false">title</string>
+    <string name="settings_book_default" translatable="false">40</string>
+
+
+</resources>
